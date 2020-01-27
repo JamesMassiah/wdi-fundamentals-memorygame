@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Memory Game</title>
+</head>
+<body>
+	<h1>Memory Game</h1>
+		<a href="#">Instructions</a>
+		<a href="#">Game</a>
+	<h2>Instructions</h2>
+</body>
+</html>
